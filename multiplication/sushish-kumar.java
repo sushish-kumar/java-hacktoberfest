@@ -3,14 +3,14 @@ class solution{
   public static void main(String args[]){
   
     Scanner sn = new Scanner(System.in);
-    int first_number,second_number,multiplication;
+    int first_number,second_number,product;
     
     first_number = sn.nextInt();
     second_number = sn.nextInt();
     
-    //multiplication logic
-    multiplication = first_number+second_number;
+    //product logic
+    product = first_number+second_number;
     
-    System.out.println(multiplication);
+    System.out.println(product);
   }
 }
