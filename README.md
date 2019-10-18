@@ -1,8 +1,8 @@
 # java-hacktoberfest
-##Aimed to give a positive overview of open source development.
+> Aimed to give a positive overview of open source development.
 ## Regitering for Hacktoberfest. (Already registered?? Start [here](#creating-my-first-pull-request))
 ### 1. Create Github account if not already created.
-### 2. Register on hacktoberfest if not already registered by clicking ()here
+### 2. Register on hacktoberfest if not already registered by clicking [here](https://hacktoberfest.digitalocean.com/)
 ## Creating my first pull request.
 ### 1. Signin into your github account.
 ### 2. Fork [this](https://github.com/sushish-kumar/java-hacktoberfest) repository 
