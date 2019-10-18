@@ -18,9 +18,9 @@
 ### 12. finally click "Create pull request" to create a pull request. And
 
 ## Meeting the target
-As of now you must have got the idea how to create a pull request. Now you can create another pull request in similar manner in the folders other than hello_world as per given details.
+As of now you must have got the idea how to create a pull request. Now you can create another pull request in similar manner in the folders other than hello_world as per given details.  
 folder_name | details  
---- | --- 
+--- | ---  
 hello_world | programme to print hello world.  
 addition | simple programme to add two numbers.  
 subtraction | simple programme to find difference of two numbers.  
