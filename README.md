@@ -1,5 +1,5 @@
 # java-hacktoberfest
-> Aimed to give a positive overview of open source development.
+> Aimed to give a positive overview of open source development. Not comfortable with java?? [here](#contribute-in-other-languages)'s something for you that you would like.
 ## Regitering for Hacktoberfest. (Already registered?? Start [here](#creating-my-first-pull-request))
 1. Create Github account if not already created.
 2. Register on hacktoberfest if not already registered by clicking [here](https://hacktoberfest.digitalocean.com/)
@@ -18,7 +18,9 @@
 12. finally click "Create pull request" to create a pull request. And
 
 ## Meeting the target
-As of now you must have got the idea how to create a pull request. Now you can create another pull request in similar manner in the folders other than hello_world as per given details.  
+> You have to meet the target of minimum of 4 Pull Requests to complete the challenge successfully.  
+
+As of now you must have got the idea how to create a pull request. Now you can create another pull request in similar manner in the folders other than hello_world as per given details by following `steps 5 to 12` after going into any of the following folders.
   
 |folder_name | details|  
 |--- | --- | 
@@ -27,3 +29,13 @@ As of now you must have got the idea how to create a pull request. Now you can c
 |subtraction | simple programme to find difference of two numbers.|
 |multiplication | simple programme to multiply two numbers.  |
 |division | simple programme to divide one numer by another number.|  
+  
+## What if I want to like to contribute in other languages 
+### Contribute in other languages  
+
+|Repo name| Description | Link |  
+|---------|-------------|------|  
+|java-hacktoberfest| Hacktoberfest aimed repo in java|[Here](https://github.com/sushish-kumar/java-hacktoberfest)|  
+|javascript-hacktoberfest| Hacktoberfest aimed repo in javascript|[Here](https://github.com/sushish-kumar/javascript-hacktoberfest)|  
+|python-hacktoberfest| Hacktoberfest aimed repo in python|[Here](https://github.com/sushish-kumar/python-hacktoberfest)|  
+|cpp-hacktoberfest| Hacktoberfest aimed repo in c++|[Here](https://github.com/sushish-kumar/cpp-hacktoberfest)|  
