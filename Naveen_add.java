@@ -1,4 +1,4 @@
-class Add
+class Naveen_add
 {
    public static void main(String[] args)
    {
