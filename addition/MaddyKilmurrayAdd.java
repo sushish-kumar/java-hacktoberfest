@@ -2,7 +2,7 @@ package addition;
 
 import java.util.Scanner;
 
-public class maddykilmurray {
+public class MaddyKilmurrayAdd {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter a number");
